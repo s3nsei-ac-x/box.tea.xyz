@@ -1,8 +1,11 @@
-# Sandboxtron
+# New Universal Unique Identifier Algo 
+civ2 guid - Google Search
 
-# curl -fsSL https://get.jetpack.io/devbox | bash
+# devbox for isolated shell
+curl -fsSL https://get.jetpack.io/devbox | bash
 
-#sh <(curl https://tea.xyz)
+#universal package manager with magic
+<(curl https://tea.xyz)
 
 A wrapper around Mac's `sandbox-exec` that lets you easily run terminals/programs within sandboxes for a slightly safer day-to-day computing experience.
 
