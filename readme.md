@@ -1,5 +1,9 @@
 # Sandboxtron
 
+# curl -fsSL https://get.jetpack.io/devbox | bash
+
+#sh <(curl https://tea.xyz)
+
 A wrapper around Mac's `sandbox-exec` that lets you easily run terminals/programs within sandboxes for a slightly safer day-to-day computing experience.
 
 Useful if you don't want every npm/cargo/pip transitive dependency to have full access to your filesystem and network.
