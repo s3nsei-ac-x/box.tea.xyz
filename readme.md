@@ -1,6 +1,7 @@
 # New Universal Unique Identifier Algo 
 civ2 guid - Google Search
-
+# touch id for the terminal 
+https://github.com/jorgelbg/pinentry-touchid
 # devbox for isolated shell
 curl -fsSL https://get.jetpack.io/devbox | bash
 
